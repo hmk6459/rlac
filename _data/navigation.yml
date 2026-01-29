@@ -1,8 +1,8 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Responses"
+    url: /responses/
+  - title: "Assignments"
+    url: /Assignments/
   - title: "Tags"
     url: /tags/
   - title: "Home"
