@@ -1,9 +1,9 @@
 main:
+  - title: "About"
+    url: /About/
   - title: "Responses"
-    url: /responses/
+    url: /Responses/
   - title: "Assignments"
     url: /Assignments/
-  - title: "Tags"
-    url: /tags/
   - title: "Home"
     url: /home/
