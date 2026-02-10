@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>IMG_5502</title>
+    <style>
+        body { display:flex; align-items:center; justify-content:center; height:100vh; margin:0; background:#111; }
+        img { max-width:100%; height:auto; box-shadow:0 4px 20px rgba(0,0,0,.5); }
+    </style>
+</head>
+<body>
+    <img src="assets/images/IMG_5502.jpeg" alt="IMG_5502">
+</body>
+</html>
