@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Hani Keshtkar"
   avatar : "/assets/images/IMG_5502.jpeg"
-  bio    : "Welcome to Hani's Journey in RLAC!Welcome to Hani’s journey in RLAC! I’m a detail-oriented engineering undergraduate interested in the intersection of technology and textual analysis. I’m particularly curious about how computational ways of thinking influence how we read, interpret, and make meaning."
+  bio    : "Welcome to Hani's Journey in RLAC! I’m a detail-oriented engineering undergraduate interested in the intersection of technology and textual analysis. I’m particularly curious about how computational ways of thinking influence how we read, interpret, and make meaning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
