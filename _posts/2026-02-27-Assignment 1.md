@@ -9,7 +9,7 @@ tags:
 
 RLAC Assignment 1: Working with a Corpus 
 
-Haris Haris Kocan - hk3905 
+Haris Kocan - hk3905 
 Hani Keshtkar - hmk6459 
 27/02/2026
 
@@ -90,5 +90,16 @@ By contrast, the fanfiction we examined presents a noticeably different language
 This does not mean that the wizarding world of fanfiction has been discarded. Rather, it assumes it. The magical world has been treated as a given knowledge shared by the reader and the writer. Since the reader is already familiar with what Hogwarts, wands, and spells represent, the writer of fanfiction has the liberty to concentrate on other areas of the story. Thus, it has not been discarded; rather, it has been shifted to other areas of fantasy, like character and relational development.
 
 Through distant reading tools such as Voyant tools and Posit Cloud, we can easily observe how lexical patterns reflect deeper narrative transformations. So, to answer our earlier question, if Harry Potter is not a book about wizardry, perhaps it is about human relations and emotions in the wizarding world. 
+
+References
+
+Distant reading. New Books Network. From https://newbooksnetwork.com/distant-reading
+Quora.com. From https://www.quora.com 
+
+What-would-happen-if-the-Harry-Potter-series-was-without-magic
+
+Archive.Ph. From https://archive.ph/8kDTp#selection-2567.22-2567.58
+
+
 
 Ready for submission
