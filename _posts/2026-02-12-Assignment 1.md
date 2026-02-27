@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 1"
+title: "Post 1: Assignment 1"
 categories:
   - Blog
 tags:
@@ -14,11 +14,11 @@ Hani Keshtkar - hmk6459
 27/02/2026
 
 Analyzed Harry Potter Novels: 
-Harry Potter and the Deathly Hallows by J. K. Rowling 
-Harry Potter and the Chamber of Secrets by J. K. Rowling 
-And I Will Find You - NYU Version by Lyingleia 
-Dragonheart Caravan by Witchdragon 
-Reconstructing Harry Potter by Yellowsunchild
+1) Harry Potter and the Deathly Hallows by J. K. Rowling 
+2) Harry Potter and the Chamber of Secrets by J. K. Rowling 
+3) And I Will Find You - NYU Version by Lyingleia 
+4) Dragonheart Caravan by Witchdragon 
+5) Reconstructing Harry Potter by Yellowsunchild
 
 ---
 
