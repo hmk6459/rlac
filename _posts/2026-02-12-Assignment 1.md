@@ -7,13 +7,19 @@ tags:
   - Post Formats
 ---
 
-Welcome to assignment 1
+RLAC Assignment 1: Working with a Corpus 
 
----
-title: "Assignment 1"
-excerpt_seperator: ""
-categories:
-    - Assignments
+Haris Haris Kocan - hk3905
+Hani Keshtkar - hmk6459
+27/02/2026
+
+Analyzed Harry Potter Novels: 
+Harry Potter and the Deathly Hallows by J. K. Rowling
+Harry Potter and the Chamber of Secrets by J. K. Rowling
+And I Will Find You - NYU Version by Lyingleia
+Dragonheart Caravan by Witchdragon
+Reconstructing Harry Potter by Yellowsunchild
+
 ---
 
 ## Introduction
