@@ -90,3 +90,5 @@ By contrast, the fanfiction we examined presents a noticeably different language
 This does not mean that the wizarding world of fanfiction has been discarded. Rather, it assumes it. The magical world has been treated as a given knowledge shared by the reader and the writer. Since the reader is already familiar with what Hogwarts, wands, and spells represent, the writer of fanfiction has the liberty to concentrate on other areas of the story. Thus, it has not been discarded; rather, it has been shifted to other areas of fantasy, like character and relational development.
 
 Through distant reading tools such as Voyant tools and Posit Cloud, we can easily observe how lexical patterns reflect deeper narrative transformations. So, to answer our earlier question, if Harry Potter is not a book about wizardry, perhaps it is about human relations and emotions in the wizarding world. 
+
+Ready for submission
