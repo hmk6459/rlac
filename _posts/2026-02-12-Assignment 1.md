@@ -9,15 +9,15 @@ tags:
 
 RLAC Assignment 1: Working with a Corpus 
 
-Haris Haris Kocan - hk3905 <br>
-Hani Keshtkar - hmk6459 <br>
+Haris Haris Kocan - hk3905 
+Hani Keshtkar - hmk6459 
 27/02/2026
 
-Analyzed Harry Potter Novels: <br>
-Harry Potter and the Deathly Hallows by J. K. Rowling <br>
-Harry Potter and the Chamber of Secrets by J. K. Rowling <br>
-And I Will Find You - NYU Version by Lyingleia <br>
-Dragonheart Caravan by Witchdragon <br>
+Analyzed Harry Potter Novels: 
+Harry Potter and the Deathly Hallows by J. K. Rowling 
+Harry Potter and the Chamber of Secrets by J. K. Rowling 
+And I Will Find You - NYU Version by Lyingleia 
+Dragonheart Caravan by Witchdragon 
 Reconstructing Harry Potter by Yellowsunchild
 
 ---
