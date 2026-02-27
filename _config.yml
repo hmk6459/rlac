@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Hani Keshtkar"
   avatar : "/assets/images/IMG_5502.jpeg"
-  bio    : "Welcome to Hani's Journey in RLAC! <br> I’m a detail-oriented Engineering undergrad interested in the intersection of tech and text. I’m looking forward to tackling some complex analysis and seeing what "reading like a computer" actually looks like in practice.
+  bio    : "Welcome to Hani's Journey in RLAC! I am a detail-oriented Engineering undergrad interested in the intersection of tech and text. I’m looking forward to tackling some complex analysis and seeing how I can one day, begin to read like a computer."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
