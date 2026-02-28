@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Hani Keshtkar"
   avatar : "/assets/images//bio-photo.jpg"
-  bio    : "Welcome to my Journey in RLAC! As a detail-oriented engineering undergraduate, my interests lie in the intersection of technology and textual analysis."
+  bio    : "Welcome to my journey in RLAC! As a detail-oriented engineering undergraduate, my interests lie in the intersection of technology and textual analysis."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
