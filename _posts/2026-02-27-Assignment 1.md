@@ -1,7 +1,7 @@
 ---
 title: "Post 1: Assignment 1"
 categories:
-  - Blog
+  - Assignments
 tags:
   - link
   - Post Formats
@@ -99,7 +99,6 @@ Quora.com. From https://www.quora.com
 What-would-happen-if-the-Harry-Potter-series-was-without-magic
 
 Archive.Ph. From https://archive.ph/8kDTp#selection-2567.22-2567.58
-
 
 
 Ready for submission
