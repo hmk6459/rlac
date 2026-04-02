@@ -20,6 +20,8 @@ Figure 1.0 image from https://engineeringprompts.substack.com/p/ai-energy-use
 While I fully agree on the point of considering how vital it is to minimize unnecessary waste of resources, I also think it is helpful to put these numbers into a human perspective. When we consider the energy usage, I found it useful to compare the act of generating an image to a quick warm shower or a short car ride. This isn't meant to justify excessive or unjustifiable prompting, but rather to provide clarity. We should be mindful of our digital consumption, but we also need to understand the scale of that consumption compared to our other daily habits.
 
 Detailed Prompts
+
+
 One of the most practical takeaways I had from the session was the strategy for interacting with AI Models. The instructors emphasized that it is much more efficient to provide longer, more detailed prompts from the start, rather than offering constant follow-up points after the model has already produced an output.
 This sparked a personal debate for me: is this approach practical for every domain? For example, if you are using an AI to prepare for a job interview or an oral exam, you naturally need to engage in a back-and-forth dialogue based on the model’s questions. While the single detailed prompt might not fit every interaction, I do think it is the most responsible way to handle image generation and many data-heavy tasks.
 We saw a perfect example of this during the session with a prompt about a cat leaning by a window.
@@ -40,6 +42,7 @@ This rapid evolution also brings up the complex topics of copyright and stylomet
 
 
 Personal Recommendations: 
+
 For anyone looking to start their own journey into AI images, my personal recommendation is Canva’s AI Image Generator. While there are many AI tools out there, Canva, I believe, offers a unique advantage for both beginner and professional users:
 
 1) Ease of Editing: Once the model generates an image, you aren't stuck with it. You can immediately use Canva’s design tools to tweak the result.
@@ -49,6 +52,7 @@ For anyone looking to start their own journey into AI images, my personal recomm
 3) User-Friendly Interface: It provides a great "middle ground" for those who want the power of AI without needing to be an expert in prompt engineering.
 
 Ending Reflections
+
 In conclusion, as you might have imagined, AI-generated imaging, much like AI-generated text, is a double-edged sword. On one hand, there is a very real fear that it will replace the jobs of current designers and artists. On the other hand, choosing to ignore AI entirely is a loss. It is a tool that, if used ethically and productively, can entirely enhance the image creation process.
 I plan to use what I learned in this session to my advantage in my future classes and capstone project. I see a huge benefit in using AI to create custom visuals for PowerPoint and presentations, images that showcase exactly what I'm thinking when I can't find the right fit online. Of course, this comes with the responsibility of crediting the tool and ensuring that I am prompting in a way that is both efficient and respectful of the resources it takes to run these models.
 
