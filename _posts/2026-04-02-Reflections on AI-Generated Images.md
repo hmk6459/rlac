@@ -13,7 +13,7 @@ Extra Credit: Reflections on AI-Generated Images
 ---
 
 
-On the morning of February 19th, 2026, I attended an engaging in-person workshop titled "Crash Course in AI-Generated Images." The session was led by Grace Adeneye, NYUAD Librarian for the Arts and Instruction. The goal of the session was to explore the practical applications of AI tools, or through the presentation description of it, the good, the bad, and the "hilariously ugly", whilst also learning to recognize these images in our daily lives. I found the session deeply relevant to our ongoing class discussions regarding the proper use of AI models to support human work, emphasizing that these tools should enhance productivity rather than replace human input or knowledge
+On the morning of February 19th, 2026, I attended an engaging in-person workshop in the NYUAD Library, titled "Crash Course in AI-Generated Images." The session was led by Grace Adeneye, NYUAD Librarian for the Arts and Instruction. The goal of the session was to explore the practical applications of AI tools, or through the presentation description of it, the good, the bad, and the "hilariously ugly", whilst also learning to recognize these images in our daily lives. I found the session deeply relevant to our ongoing class discussions regarding the proper use of AI models to support human work, emphasizing that these tools should enhance productivity rather than replace human input or knowledge
 
 ## The Environmental and Ethical Cost of a Prompt
 
