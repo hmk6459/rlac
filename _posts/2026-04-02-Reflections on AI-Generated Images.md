@@ -65,10 +65,9 @@ I plan to use what I learned in this session to my advantage in my future classe
 
 ## Resources
 
-https://medium.com/@junehao/comparing-ai-generated-images-two-years-apart-2022-vs-2024-6c3c4670b905
+Hou, J. (2024, April 17). Comparing AI-generated images two years apart: 2022 vs 2024. Medium. https://medium.com/@junehao/comparing-ai-generated-images-two-years-apart-2022-vs-2024-6c3c4670b905
 
-https://engineeringprompts.substack.com/p/ai-energy-use
-
+Salathe, M. (2025, March 29). AI Energy Use in Everyday Terms. Engineering Prompts. https://engineeringprompts.substack.com/p/ai-energy-use
 
 Ready for Grading
 
