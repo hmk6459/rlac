@@ -17,12 +17,12 @@ On the morning of February 19th, 2026, I attended an engaging in-person workshop
 
 ## The Environmental and Ethical Cost of a Prompt
 
-A significant portion of the workshop was dedicated to the hidden costs of artificial intelligence. We examined qualitative data regarding the immense amount of water and energy required to process AI inputs. This is a side of technology we rarely see when generating images or clips through AI models. A professor in the room shared a story about a family member who refuses to use AI altogether because of its environmental footprint.
+A significant portion of the workshop was dedicated to the hidden costs of artificial intelligence. We examined qualitative data regarding the immense amount of water and energy required to process AI inputs. This is a side of technology we rarely see when generating images or clips through AI models. A professor in the room also shared a thoughful story about a family member who refuses to use AI altogether because of its environmental footprint.
 
 ![Image](/rlac/assets/images/fig14.png)
 Figure 1.0 image from https://engineeringprompts.substack.com/p/ai-energy-use
 
-While I fully agree on the point of considering how vital it is to minimize unnecessary waste of resources, I also think it is helpful to put these numbers into a human perspective. When we consider the energy usage, I found it useful to compare the act of generating an image to a quick warm shower or a short car ride. This isn't meant to justify excessive or unjustifiable prompting, but rather to provide clarity. We should be mindful of our digital consumption, but we also need to understand the scale of that consumption compared to our other daily habits.
+While I fully agree on the point of considering how vital it is to minimize unnecessary waste of resources, I also think it is helpful to put these numbers into a human perspective. When we consider the energy usage, I found it useful to compare the act of generating an image to a quick warm shower or a short car ride, as highlighed in the image above. This finding is not meant to justify excessive or unjustifiable prompting, but rather to provide clarity. We should be mindful of our digital consumption, but we also need to understand the scale of that consumption compared to our other daily habits.
 
 ## Detailed Prompts
 
