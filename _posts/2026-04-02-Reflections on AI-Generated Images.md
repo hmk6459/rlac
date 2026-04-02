@@ -1,5 +1,5 @@
 ---
-title: "Post 3: Extra Credit 1"
+title: "Post 3: Reflections on AI-Generated Images"
 categories:
   - 
 tags:
