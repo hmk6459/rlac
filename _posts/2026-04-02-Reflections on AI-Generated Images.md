@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Reflections on AI-Generated Images
+Extra Credit: Reflections on AI-Generated Images
 
 ---
 
