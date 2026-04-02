@@ -14,7 +14,7 @@ On the morning of February 19th, 2024, I attended an engaging in-person workshop
 The Environmental and Ethical Cost of a Prompt
 A significant portion of the workshop was dedicated to the hidden costs of artificial intelligence. We examined qualitative data regarding the immense amount of water and energy required to process AI inputs. This is a side of technology we rarely see when generating images or clips through AI models. A professor in the room shared a story about a family member who refuses to use AI altogether because of its environmental footprint.
 
-![Heatmap](/rlac/assets/images/fig14.png)
+![Image](/rlac/assets/images/fig14.png)
 Figure 1.0 image from https://engineeringprompts.substack.com/p/ai-energy-use
 
 While I fully agree on the point of considering how vital it is to minimize unnecessary waste of resources, I also think it is helpful to put these numbers into a human perspective. When we consider the energy usage, I found it useful to compare the act of generating an image to a quick warm shower or a short car ride. This isn't meant to justify excessive or unjustifiable prompting, but rather to provide clarity. We should be mindful of our digital consumption, but we also need to understand the scale of that consumption compared to our other daily habits.
@@ -30,7 +30,7 @@ This reminded me of our work in class with Response Paper 1, which I found to be
 Evolution and Professional Standards
 We spent significant time looking into the evolution of AI image generation, tracing its path from the early, distorted models near the emergence of these tools to the highly developed versions we see today. A highlight of this progression was an image comparison from June-hao Hou’s article, which highlights the development of Midjourney from its second version in 2022 to its sixth version in 2024.
 
-[Heatmap](/rlac/assets/images/fig15.png)
+![Image](/rlac/assets/images/fig15.png)
 Figure 2.0 from https://medium.com/@junehao/comparing-ai-generated-images-two-years-apart-2022-vs-2024-6c3c4670b905
 
 
