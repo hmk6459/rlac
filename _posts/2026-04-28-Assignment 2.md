@@ -1,11 +1,16 @@
 ---
-title: "Assignment 2"
+title: "Post 4: Assignment 2"
 excerpt_seperator: ""
 categories:
     - Assignments
 ---
 
-## Introduciton
+
+
+Assignment 2: Comparing Stylo with TF-IDF for a Science Fiction Corpus S26
+---
+
+## Introduction
 
 The use of computational methods in literary analysis provides researchers with alternative tools for working with texts. Stylometric analysis and TF-IDF (term frequency-inverse document frequency) analysis provide researchers with tools to uncover patterns of text concerning authorship, style, and thematic similarity within a corpus. But since each computational tool produces different results, researchers need to determine what constitutes a meaningful textual similarity.
 
